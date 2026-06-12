@@ -103,27 +103,27 @@ Indicators investigated:
 
 ### SOC Dashboard
 
-![SOC Dashboard](Screenshots/SOC_Dashboard.PNG)
+SOC_Dashboard.PNG
 
 ### KPI Cards
 
-![KPI Cards](Screenshots/KPI_Cards.PNG)
+KPI_Cards.PNG
 
 ### Attack Type Distribution
 
-![Attack Type Distribution](Screenshots/Attack_Type_Distribution.PNG)
+Attack_Type_Distribution.PNG
 
 ### Attack Timeline
 
-![Attack Timeline](Screenshots/Attack_Timeline.PNG)
+Attack_Timeline.PNG
 
 ### Top Source IPs
 
-![Top Source IPs](Screenshots/Top_Source_IPs.PNG)
+Top_Source_IPs.PNG
 
 ### Top Targeted URLs
 
-![Top Targeted URLs](Screenshots/Top_Targeted_URLs.PNG)
+Top_Targeted_URLs.PNG
 
 ---
 
@@ -175,6 +175,14 @@ Incident_Reports/
 * Risk-Based Alerting
 
 ---
+
+## Notes
+
+* Dashboard statistics, attack counts, and investigation results may vary depending on the ingested log data, generated attack traffic, and selected search time range.
+* The dashboard visualizations included in this repository were generated using **All Time** data in Splunk Enterprise.
+* Metrics such as Total Events, Attack Distribution, Top Source IPs, Top Targeted URLs, and Timeline Analysis are based on the dataset available during project execution.
+* This project was conducted in a controlled lab environment using Apache web server logs and simulated attack activity for educational and cybersecurity learning purposes.
+
 
 ## Author
 
