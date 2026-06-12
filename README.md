@@ -103,27 +103,27 @@ Indicators investigated:
 
 ### SOC Dashboard
 
-SOC_Dashboard.PNG
+![SOC Dashboard](Screenshots/SOC_Dashboard.PNG)
 
 ### KPI Cards
 
-KPI_Cards.PNG
+![KPI Cards](Screenshots/KPI_Cards.PNG)
 
 ### Attack Type Distribution
 
-Attack_Type_Distribution.PNG
+![Attack Type Distribution](Screenshots/Attack_Type_Distribution.PNG)
 
 ### Attack Timeline
 
-Attack_Timeline.PNG
+![Attack Timeline](Screenshots/Attack_Timeline.PNG)
 
 ### Top Source IPs
 
-Top_Source_IPs.PNG
+![Top Source IPs](Screenshots/Top_Source_IPs.PNG)
 
 ### Top Targeted URLs
 
-Top_Targeted_URLs.PNG
+![Top Targeted URLs](Screenshots/Top_Targeted_URLs.PNG)
 
 ---
 
